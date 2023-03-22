@@ -1,0 +1,240 @@
+.nopadding {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+.nopadding-side {
+    padding-left: 0;
+    padding-right: 0;
+  }
+.pad-top-0 {
+    padding-top: 0;
+}
+.pad-right-0 {
+    padding-right: 0;
+}
+.pad-right-1 {
+    padding-right: 2px;
+}
+.pad-right-2 {
+    padding-right: 4px;
+}
+.pad-1 {
+    padding: 1%;
+}
+
+.noborder {
+    border: none;
+    box-shadow: none;
+}
+
+/* BORDER RADIUS */
+.bo-rad-6 {
+    border-radius: 6px;
+}
+.bo-rad-8 {
+    border-radius: 8px;
+}
+.bo-rad-10 {
+    border-radius: 10px;
+}
+.bo-rad-12 {
+    border-radius: 12px;
+}
+.bo-rad-14 {
+    border-radius: 14px;
+}
+.bo-rad-16 {
+    border-radius: 16px;
+}
+
+
+/* FONT SIZE */
+.fs-8{
+    font-size: 8px;
+}
+.fs-9{
+    font-size: 9px;
+}
+.fs-10{
+    font-size: 10px;
+}
+.fs-11{
+    font-size: 11px;
+}
+.fs-12{
+    font-size: 12px;
+}
+.fs-14{
+    font-size: 14px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.fs-18{
+    font-size: 18px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-22{
+    font-size: 22px;
+}
+.fs-24{
+    font-size: 24px;
+}
+.fs-36{
+    font-size: 36px;
+}
+/* POSTER FILM */
+.poster{
+    border-radius: 8px;
+    height: auto;
+    position: relative;
+}
+
+/* PIN */
+.pin-poster-1{
+    border: none;
+    position: absolute;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color: white;
+    top: 0;
+    right: 0;
+    border-radius: 8px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.pin-poster-2{
+    border: none;
+    position: absolute;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color: rgb(0, 0, 0);
+    top: 0;
+    right: 0;
+    border-radius: 8px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.fot-poster-1{
+    border: none;
+    position: absolute;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    border-radius: 8px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    
+}
+/* POSTER FILM */
+.banner{
+    position: relative;
+}
+.fot-banner-1{
+    border: none;
+    position: absolute;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color: rgb(255, 255, 255);
+    top: 0;
+    width: 100%;
+    height: 100%;
+    
+}
+.fot-banner-2{
+    border: none;
+    position: absolute;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    
+}
+.fot-banner-3{
+    border: none;
+    position: absolute;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    border-radius: 16px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    
+}
+
+/* BAGIAN DETAIL */
+.player{
+    border-radius: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.b-player{
+    border: none;
+    background-color: transparent;
+    font-size: 9;
+    color: aliceblue;
+    text-decoration: none;
+}
+.videoWrapper{
+    position: relative;
+    padding-top: 0;
+    padding-bottom: 57%;
+    height: 0;
+  }
+  .videoWrapper iframe{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  .nav-link{
+    color: gray;
+  }
+  
+  .bot-eps{
+    width: 100%;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 3px;
+    border-radius: 8px;
+    text-align: center;
+    border: none;
+    background-color: rgb(255, 255, 255);
+  }
+  .bot-eps-mask{ 
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity:20%;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    border: none;
+  }
+  .a-eps{
+    text-decoration: none;
+  }
+
